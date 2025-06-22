@@ -67,10 +67,10 @@ This bot responds to basic commands like `/start`, `/help`, and `/info`, and is 
 
 ## 📸 Bot in Action
 
-```
+
 ![Screenshot 2025-06-22 144626](https://github.com/user-attachments/assets/07d2ef50-855c-4a03-b197-6d1d9f4b5b67)
 
-```
+
 
 ---
 
